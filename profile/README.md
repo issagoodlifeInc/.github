@@ -12,5 +12,5 @@ Lets collaborate 💪🏾
 ### Learning: 
 React, Javascript, Nodejs, EJS 
 
-<img width="1000" height="200" src="https://media.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif">
+<img width="1000" height="500" src="https://media.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif">
 
