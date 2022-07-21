@@ -13,5 +13,5 @@
 React, Javascript, Nodejs, EJS 
 
 
-<img width="1000" height="500" src="https://media.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif">
+<img width="896" height="500" src="https://media.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif">
 
