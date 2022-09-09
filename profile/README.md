@@ -10,7 +10,7 @@
 
 ### Learning:
 
-React, Javascript, Nodejs, EJS 
+React, Javascript, Nodejs, EJS, Python, Vuejs
 
 
 <img width="100%" height="500" src="https://media.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif">
