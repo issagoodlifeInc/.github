@@ -5,12 +5,13 @@
 ### 🙋‍About IssagoodlifeInc:
 
 - Hi, this is where Lesley does most of his projects ... yeah me !! 
-- Started this to reduce clluter in my github account - no major reason really 
+- Started this to reduce clutter in my github account - no major reason really 
 - Lets collaborate 💪🏾
+- You're your own limitter
 
 ### Learning:
 
-React, Javascript, Nodejs, EJS, Python, Vuejs
+React, Javascript, Nodejs, EJS, Python, Vuejs, TailwindCSS
 
 
 <img width="100%" height="500" src="https://media.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif">
